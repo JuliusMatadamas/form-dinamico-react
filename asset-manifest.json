@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/form-dinamico-react/static/css/main.679d2ed0.css",
+    "main.js": "/form-dinamico-react/static/js/main.58870a65.js",
+    "static/js/787.aeb39de0.chunk.js": "/form-dinamico-react/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/form-dinamico-react/index.html",
+    "main.679d2ed0.css.map": "/form-dinamico-react/static/css/main.679d2ed0.css.map",
+    "main.58870a65.js.map": "/form-dinamico-react/static/js/main.58870a65.js.map",
+    "787.aeb39de0.chunk.js.map": "/form-dinamico-react/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.679d2ed0.css",
+    "static/js/main.58870a65.js"
+  ]
+}
